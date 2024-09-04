@@ -1,4 +1,4 @@
-Domain Checker 
+
 
   ____                        _   _             _             
  |  _ \  ___  _ __ ___   __ _| | | | __ _ _ __ | | _____ _ __ 
@@ -6,21 +6,15 @@ Domain Checker
  | |_| | (_) | | | | | | (_| |  _  | (_| | | | |   <  __/ |   
  |____/ \___/|_| |_| |_|\__,_|_| |_|\__,_|_| |_|_|\_\___|_|   
 
-                        By Junaid Farhan
+           Domain Checker  By Junaid Farhan
             https://www.instagram.com/jdf_000/
 ============================================================
-
-www.google.com is reachable.
-www.nonexistentdomain.com is not fully reachable.
-
-Check complete! Reachable domains saved to reachable.txt
 
 
 Future Enhancements
 Smart GUI Integration: Incorporate a graphical user interface (GUI) using Tkinter or PyQt to make the tool more user-friendly.
 Customizable Themes: Allow users to choose different themes and fonts for the terminal output.
 Additional Protocol Support: Extend reachability checks to include other protocols like FTP, SSH, etc.
-
 
 Credits
 Created by Junaid Farhan
@@ -58,3 +52,8 @@ Commit and push the changes to GitHub:
 git add check_domains.py README.md
 git commit -m "Initial commit with domain reachability checker"
 git push origin main
+
+www.google.com is reachable.
+www.nonexistentdomain.com is not fully reachable.
+
+Check complete! Reachable domains saved to reachable.txt
