@@ -24,6 +24,7 @@ www.example.com
 www.github.com
 
 
+
 Run the Script: Execute the script using Python:
 
 python3 check_domains.py
