@@ -1,12 +1,30 @@
+Domain Checker 
+
+  ____                        _   _             _             
+ |  _ \  ___  _ __ ___   __ _| | | | __ _ _ __ | | _____ _ __ 
+ | | | |/ _ \| '_ ` _ \ / _` | |_| |/ _` | '_ \| |/ / _ \ '__|
+ | |_| | (_) | | | | | | (_| |  _  | (_| | | | |   <  __/ |   
+ |____/ \___/|_| |_| |_|\__,_|_| |_|\__,_|_| |_|_|\_\___|_|   
+
+                        By Junaid Farhan
+            https://www.instagram.com/jdf_000/
+============================================================
+
+www.google.com is reachable.
+www.nonexistentdomain.com is not fully reachable.
+
+Check complete! Reachable domains saved to reachable.txt
 
 
 Future Enhancements
 Smart GUI Integration: Incorporate a graphical user interface (GUI) using Tkinter or PyQt to make the tool more user-friendly.
 Customizable Themes: Allow users to choose different themes and fonts for the terminal output.
 Additional Protocol Support: Extend reachability checks to include other protocols like FTP, SSH, etc.
+
+
 Credits
 Created by Junaid Farhan
-Instagram
+
 
 
 ### Additional Enhancements:
@@ -24,14 +42,8 @@ Instagram
 4. **Logging:**
    - Add an option to log all activities to a file, providing a detailed history of checks performed, which can be useful for auditing or troubleshooting.
 
-### How to Upload to GitHub:
 
-1. **Create a new repository on GitHub** with a suitable name, e.g., `Domain-Reachability-Checker`.
-
-2. **Clone the repository** to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/Domain-Reachability-Checker.git
+ git clone https://github.com/yourusername/Domain-Reachability-Checker.git
 
 Add your script and README to the repository:
 
